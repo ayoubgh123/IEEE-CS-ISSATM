@@ -1,0 +1,57 @@
+const ECTeamData = [
+  {
+    name: "Anas Limem",
+    imageURL: "https://i.ibb.co/qLLWVW8v/1740249490432.jpg",
+    position: "ChairMan",
+    hasLinkedIn: true,
+    linkedInURL: "https://www.linkedin.com/in/anaslimem/",
+    hasGitHub: false,
+    gitHubURL: "",
+    hasInstagram: true,
+    instagramURL: "https://www.instagram.com/limem_anas/",
+  },
+  {
+    name: "Louay Rjili",
+    imageURL: "https://i.ibb.co/TDQ40sX9/4a59bde3-786f-4026-8d0c-cad4a6799e5b.jpg",
+    position: "Vice ChairMan",
+    hasLinkedIn: true,
+    linkedInURL: "https://www.linkedin.com/in/louay-rjili-26401a33a/",
+    hasGitHub: false,
+    gitHubURL: "",
+    hasInstagram: true,
+    instagramURL: "https://www.instagram.com/louuuu007/",
+  }, {
+    name: "Yamen Meddeb",
+    imageURL: "https://i.ibb.co/VWxr5kZ1/481453173-122218337552033978-6547245397708396672-n.jpg",
+    position: "General Secretary",
+    hasLinkedIn: true,
+    linkedInURL: "https://www.linkedin.com/in/yemen-meddeb/",
+    hasGitHub: false,
+    gitHubURL: "",
+    hasInstagram: true,
+    instagramURL: "https://www.instagram.com/ymn_meddeb/",
+  }, {
+    name: "Amen Dridi",
+    imageURL: "https://i.ibb.co/gZB64zjB/480995753-122218337288033978-662867305730716644-n.jpg",
+    position: "WebMaster",
+    hasLinkedIn: false,
+    linkedInURL: "",
+    hasGitHub: false,
+    gitHubURL: "",
+    hasInstagram: true,
+    instagramURL: "https://www.instagram.com/amendridi12/",
+  }, {
+    name: "Abir Saidani",
+    imageURL: "https://i.ibb.co/TD3BkTyr/480837097-122218337768033978-4127297169561739728-n.jpg",
+    position: "Treasurer",
+    hasLinkedIn: false,
+    linkedInURL: "",
+    hasGitHub: false,
+    gitHubURL: "",
+    hasInstagram: true,
+    instagramURL: "https://www.instagram.com/abir.saidani.779/",
+  },
+
+]
+
+export default ECTeamData;
