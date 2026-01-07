@@ -1,6 +1,6 @@
 const ECTeamData = [
   {
-    name: "Anas Limem",
+    name: "ayoub ghiloufi",
     imageURL: "https://i.ibb.co/qLLWVW8v/1740249490432.jpg",
     position: "ChairMan",
     hasLinkedIn: true,
